@@ -1,27 +1,30 @@
-
 import React from 'react';
 
 const About = () => {
   const topics = [
     {
-      title: "AI in organizational decision-making",
+      title: "AI Governance & Shadow IT",
       icon: "🤖"
     },
     {
-      title: "Privacy & ethics in data-driven society",
+      title: "Low-Code Platforms for SMEs",
+      icon: "⚙️"
+    },
+    {
+      title: "Biomedical Data Sovereignty",
+      icon: "☁️"
+    },
+    {
+      title: "Data Quality in Logistics",
+      icon: "🚚"
+    },
+    {
+      title: "Student Trust in Educational Data Use",
+      icon: "🎓"
+    },
+    {
+      title: "Privacy & Ethics in the Data-Driven Society",
       icon: "🔒"
-    },
-    {
-      title: "Information governance in the public sector",
-      icon: "🏛️"
-    },
-    {
-      title: "Digital transformation in healthcare & education",
-      icon: "🏥"
-    },
-    {
-      title: "Algorithms in public policy",
-      icon: "⚖️"
     }
   ];
 
@@ -31,16 +34,16 @@ const About = () => {
         <h2 className="section-title text-center">About the Conference</h2>
         <p className="text-lg text-navy/80 mb-12 text-center">
           The 8th Annual Conference on Information Management (ACIM) brings together students, 
-          academics, and industry professionals to explore cutting-edge topics in information 
-          management.
+          academics, and industry professionals to explore current challenges and innovations 
+          in AI governance, data ethics, digital trust, and automation in the field of Information Management.
         </p>
 
         <div className="mb-12">
-          <h3 className="text-2xl font-bold mb-4 text-navy">Organized by the Future of Information Management</h3>
+          <h3 className="text-2xl font-bold mb-4 text-navy">Organized by Tilburg University's Information Management Students</h3>
           <p className="text-navy/80 mb-6">
-            ACIM is organized by pre-master Information Management students at Tilburg University, 
-            featuring presentations on pressing topics in the field. The conference aims to exchange 
-            ideas and foster new insights in Information Management.
+            ACIM is a student-led initiative by pre-master Information Management students at Tilburg University. 
+            The conference features original research and presentations on pressing topics, serving as a platform 
+            for exchanging ideas and fostering new insights into the management of information in complex environments.
           </p>
         </div>
 

@@ -42,7 +42,7 @@ const speakerGroups = [
   {
     group: 2,
     title: "Empowering SMEs in the AI Era: Technical and Financial Feasibility of No-/Low-Code Platforms for Business Process Automation",
-    authors: "Timo Floumen, Sem Meevis, Salvatore Caldara, Juan van Gogh",
+    authors: "Timo Ploumen, Sem Meevis, Salvatore Caldara, Juan van Gogh",
     summary:
       "This paper explores the potential of no-code and low-code AI platforms to support digital transformation in small and medium-sized enterprises (SMEs). Through interviews and a broad survey of SMEs, the study examines the technical and financial feasibility of these platforms, along with adoption challenges such as integration with legacy systems, hidden costs, and skill gaps. The research offers a practical framework to help SMEs make informed decisions about implementing AI-driven automation solutions.",
   },

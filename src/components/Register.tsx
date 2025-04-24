@@ -17,10 +17,7 @@ const Register = () => {
             width="100%" 
             height="2100" 
             className="mx-auto rounded-lg"
-            title="Registration Form"
-            frameBorder="0" 
-            marginHeight="0" 
-            marginWidth="0">
+            title="Registration Form">
             Loading registration form...
           </iframe>
         </div>

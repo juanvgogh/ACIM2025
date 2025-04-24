@@ -5,15 +5,15 @@ const guestSpeakers = [
     name: "Remko van der Burght",
     title: "Chief Data Officer",
     organization: "Gemeente Den Haag",
-    topic: "T.B.D",
+    topic: "Data & Artificial Intelligence",
     image: "https://media.licdn.com/dms/image/v2/C4E03AQGExSz-mxrFOg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1655383670237?e=1750896000&v=beta&t=fRal3i56yFo9MxshCWMg_2EzrtB69G8qwNK5BhfuhgI",
   },
   {
     name: "TBD",
-    title: "Business Unit Manager of CISOs",
+    title: "Privacy & Security Consultant",
     organization: "BMGRIP",
     topic: "Managementsystems and Certifications",
-    image: "https://media.istockphoto.com/id/154956399/photo/anonymous-front-silhouette.jpg?s=612x612&w=0&k=20&c=JpSlXxv688SWY3kwLNtXbPuyWoCeJbW57QTioCS-2XA=",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkhmSs7NH-Q_c58XrQ5AyIXjRUa1Asxh9XDQ&s",
   },
   {
     name: "TBD",

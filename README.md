@@ -1,4 +1,4 @@
-# 🎓 ACIM Conference 2025 – Project README
+# 🎓 ACIM Conference 2025 – Project
 
 Welcome to the repository for the **ACIM Conference 2025** website, developed for the Pre-Master in Information Management course at Tilburg University.
 

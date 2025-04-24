@@ -34,7 +34,7 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4 text-gold">Contact</h3>
             <ul className="space-y-2 text-softWhite/70">
               <li>
-                <strong className="text-softWhite">Email:</strong> acim@tilburguniversity.edu
+                <strong className="text-softWhite">Email:</strong> l.vanberlo@tilburguniversity.edu
               </li>
               <li>
                 <strong className="text-softWhite">Phone:</strong> +31 13 466 9111

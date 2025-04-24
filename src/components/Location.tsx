@@ -37,57 +37,51 @@ const Location = () => {
             <div className="bg-lightBlue/30 p-6 rounded-lg">
               <h4 className="text-lg font-semibold text-navy mb-2">Conference Schedule</h4>
               <div className="grid grid-cols-[120px_1fr] gap-y-2">
-              <span className="font-medium text-navy">08:30 – 09:00</span>
+              <span className="font-medium text-navy">09:00 – 09:15</span>
               <span className="text-navy/80">Registration & Coffee</span>
 
-              <span className="font-medium text-navy">09:00 – 09:15</span>
+              <span className="font-medium text-navy">09:30 – 09:30</span>
               <span className="text-navy/80">Opening Remarks</span>
 
-              <span className="font-medium text-navy">09:15 – 09:40</span>
+              <span className="font-medium text-navy">09:35 – 10:00</span>
               <span className="text-navy/80">
                 Group 1 – <em>Governance in the Age of AI</em>: Managing Shadow IT in Global Enterprises
               </span>
 
-              <span className="font-medium text-navy">09:40 – 10:05</span>
+              <span className="font-medium text-navy">10:25 – 10:50</span>
               <span className="text-navy/80">
                 Group 2 – <em>Empowering SMEs in the AI Era</em>: Feasibility of No-/Low-Code Automation
               </span>
 
-              <span className="font-medium text-navy">10:05 – 10:15</span>
+              <span className="font-medium text-navy">10:50 – 11:00</span>
               <span className="text-navy/80">Break</span>
 
-              <span className="font-medium text-navy">10:15 – 10:40</span>
+              <span className="font-medium text-navy">11:00 – 11:25</span>
               <span className="text-navy/80">
                 Group 3 – <em>Biomedical Data Sovereignty</em>: Governance and Cloud Control
               </span>
 
-              <span className="font-medium text-navy">10:40 – 11:05</span>
+              <span className="font-medium text-navy">11:25 – 11:50</span>
               <span className="text-navy/80">
                 Group 4 – <em>DB Schenker Case Study</em>: Carrier Ownership and Data Quality
               </span>
 
-              <span className="font-medium text-navy">11:05 – 11:30</span>
+              <span className="font-medium text-navy">11:50 – 12:15</span>
               <span className="text-navy/80">
                 Group 5 – <em>Student Trust in the Digital Age</em>: Data Responsibility in Education
               </span>
 
-              <span className="font-medium text-navy">11:30 – 12:00</span>
+              <span className="font-medium text-navy">12:15 – 12:50</span>
               <span className="text-navy/80">Guest Speaker</span>
 
-              <span className="font-medium text-navy">12:00 – 12:30</span>
+              <span className="font-medium text-navy">12:50 – 13:25</span>
               <span className="text-navy/80">Faculty Speaker</span>
 
-              <span className="font-medium text-navy">12:30 – 13:30</span>
-              <span className="text-navy/80">Lunch Break</span>
+              <span className="font-medium text-navy">13:25 – 13:30</span>
+              <span className="text-navy/80">Closing Remarks</span>
 
-              <span className="font-medium text-navy">13:30 – 16:30</span>
-              <span className="text-navy/80">Guest Speaker Sessions</span>
-
-              <span className="font-medium text-navy">16:30 – 17:30</span>
-              <span className="text-navy/80">Panel Discussion</span>
-
-              <span className="font-medium text-navy">17:30 – 19:00</span>
-              <span className="text-navy/80">Networking Reception</span>
+              <span className="font-medium text-navy">13:30</span>
+              <span className="text-navy/80">Lunch</span>
               </div>
             </div>
           </div>
